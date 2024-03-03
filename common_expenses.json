@@ -1,0 +1,82 @@
+{
+    "expenses": {
+        "Housing": {
+            "Rent": 0,
+            "Property taxes": 0,
+            "Homeowners or renters insurance": 0,
+            "Maintenance and repairs": 0
+        },
+        "Utilities": {
+            "Electricity": 0,
+            "Gas": 0,
+            "Water and sewer": 0,
+            "Internet": 0,
+            "Cable or satellite TV": 0,
+            "Phone (landline or cell phone)": 0
+        },
+        "Transportation": {
+            "Car payments": 0,
+            "Gasoline or public transportation fares": 0,
+            "Car insurance": 0,
+            "Maintenance and repairs": 0,
+            "Parking fees or tolls": 0
+        },
+        "Food": {
+            "Groceries for cooking at home": 0,
+            "Dining out or ordering takeout": 0
+        },
+        "Healthcare": {
+            "Health insurance premiums": 0,
+            "Medical expenses (co-pays, prescriptions, etc.)": 0,
+            "Dental care": 0,
+            "Vision care": 0
+        },
+        "Debt Payments": {
+            "Credit card payments": 0,
+            "Student loan payments": 0,
+            "Personal loan payments": 0,
+            "Other debt obligations": 0
+        },
+        "Insurance": {
+            "Life insurance": 0,
+            "Disability insurance": 0,
+            "Long-term care insurance": 0
+        },
+        "Savings and Investments": {
+            "Retirement savings (401(k), IRA, etc.)": 0,
+            "Emergency fund contributions": 0,
+            "Investment contributions (stocks, mutual funds, etc.)": 0
+        },
+        "Personal Care": {
+            "Haircuts or salon services": 0,
+            "Toiletries and personal hygiene products": 0,
+            "Gym or fitness memberships": 0
+        },
+        "Entertainment and Recreation": {
+            "Movies, concerts, or other entertainment events": 0,
+            "Hobbies or recreational activities": 0,
+            "Vacations or travel expenses": 0
+        },
+        "Education": {
+            "Tuition and fees": 0,
+            "Books and supplies": 0,
+            "Continuing education or professional development courses": 0
+        },
+        "Childcare": {
+            "Daycare or babysitting expenses": 0,
+            "School fees or tuition": 0,
+            "Extracurricular activities": 0
+        },
+        "Clothing and Apparel": {
+            "Clothing purchases": 0,
+            "Shoes and accessories": 0,
+            "Dry cleaning or laundry expenses": 0
+        },
+        "Miscellaneous": {
+            "Gifts and charitable donations": 0,
+            "Pet care expenses": 0,
+            "Subscriptions and memberships (magazines, streaming services, etc.)": 0,
+            "Home furnishings or decor": 0
+        }
+    }
+}
